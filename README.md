@@ -6,4 +6,5 @@ git clone https://github.com/flytosky-f/luci-app-vlmcsd.git package/luci-app-vlm
 make menuconfig
 make package/luci-app-vlmcsd/compile V=99
 ```
+- 预览
 ![vlmcsd](pic/luci-app-vlmcsd-1.png)

@@ -10,8 +10,8 @@ o.default =true
 
 o = s:option(Value, "Interface", translate("Interface"),
 	translate("Listen only on the given interface or, if unchoose, on all"))
-o.template    = "vlmcsd_netlist"
-o.nocreate    = true
+o.template = "vlmcsd_netlist"
+o.nocreate = true
 o.widget = "checkbox"
 
 o = s:option(ListValue, "family", translate("Address family"))

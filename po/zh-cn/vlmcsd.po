@@ -1,0 +1,38 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+msgid "Address family"
+msgstr "地址类型"
+
+msgid "-- All --"
+msgstr "-- 全部 --"
+
+msgid "Enable"
+msgstr "启用"
+
+msgid "Global Setting"
+msgstr "全局设置"
+
+msgid "Interface"
+msgstr "网络接口"
+
+msgid "IPv4 and IPv6"
+msgstr "IPv4 和 IPv6"
+
+msgid "IPv4 only"
+msgstr "只有 IPv4"
+
+msgid "IPv6 only"
+msgstr "只有 IPv6"
+
+msgid "Listen only on the given interface or, if unchoose, on all"
+msgstr "只监听指定网络接口，如果全部不选则监听所有地址"
+
+msgid "Options"
+msgstr "参数设置"
+
+msgid "Port"
+msgstr "端口"
+
+msgid "Vlmcsd Setting"
+msgstr "Vlmcsd 设置"

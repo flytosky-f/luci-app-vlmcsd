@@ -2,7 +2,7 @@
 <script type="text/javascript">
     var s = document.getElementsByName("<%=cbid%>");
     if (s&&s.length>0){
-        s[0].setAttribute('placeholder', _("-- All --"));
+        s[0].setAttribute('placeholder', '<%=translate("-- All --")%>');
         if (typeof(window.cbi_dropdown_init.prototype.openDropdown) !== 'function')
             function cbi_dropdown_init(sb){var dl=new L.ui.Dropdown(sb,null,{name:sb.getAttribute('name'),select_placeholder:sb.getAttribute('placeholder')});return dl.bind(sb);};
     }
